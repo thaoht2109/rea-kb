@@ -1,0 +1,11 @@
+{
+ "kind": "rea-kb-manifest",
+ "ver": 1,
+ "name": "thaoht",
+ "ts": "2026-11-22T01:54:42",
+ "file": "rea-kb-20261122.jsonl.gz",
+ "sha256": "918086161d3343f06968db1e08b7bdebaf648f32849ac54456924acb69cf8e97",
+ "size": 929,
+ "files": 3,
+ "cases": 1
+}
